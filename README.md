@@ -1,6 +1,6 @@
-![GitHub stars](https://img.shields.io/github/stars/22AD040/neurograph-memory-chatbot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/22AD040/neurograph-memory-chatbot?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/22AD040/neurograph-memory-chatbot)
+![GitHub stars](https://img.shields.io/github/stars/22AD040/neurograph-ai-chatbot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/22AD040/neurograph-ai-chatbot?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/22AD040/neurograph-ai-chatbot)
 
 ---
 
