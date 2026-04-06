@@ -1,5 +1,6 @@
 import sqlite3
-
+import os
+os.makedirs("data", exist_ok=True)
 conn = sqlite3.connect("data/users.db", check_same_thread=False)
 c = conn.cursor()
 
