@@ -1,0 +1,6 @@
+streamlit
+langchain
+langgraph
+google-generativeai
+python-dotenv
+bcrypt
